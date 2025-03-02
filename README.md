@@ -44,8 +44,4 @@
 - Tio Hardadi Somantri
 - Muhammad Alwi Nugraha
 - Raffi Alfarizi Hadianto
-<<<<<<< HEAD
 - Khoirunnisa Putri Kania
-=======
-- Khoirunnisa Putri Kania
->>>>>>> 2d015f6 (nambah kelompok 1)
