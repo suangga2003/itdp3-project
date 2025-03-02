@@ -1,0 +1,24 @@
+# 🏗 Build Files
+/target/
+/build/
+
+# 📦 Dependencies
+/.mvn/
+/.m2/
+/.gradle/
+/out/
+
+# 🗄 IDE & Editor Files
+.idea/
+.vscode/
+*.iml
+
+# 🔧 System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# 🔐 Secrets & Credentials
+application.properties
+application.yml
+.env
