@@ -211,7 +211,7 @@ Mengelola nilai tukar mata uang, termasuk JPY.
 ✅ **CRUD User** dengan saldo **IDR, USD, JPY**  
 ✅ **Detail akun user (nama, email, alamat, gender)**  
 ✅ **CRUD Exchange Rate**  
-✅ **Transaksi Exchange**
+✅ **Transaksi Exchange**  
 ✅ **Histori Transaksi**  
 ✅ **Fitur Deposit & Withdraw**  
 
